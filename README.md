@@ -34,3 +34,19 @@ javac src/Main.java src/buku/*.java src/util/*.java
 
 # Jalankan program
 java src/Main
+
+src/
+├── Main.java
+├── buku/
+│   ├── Buku.java
+│   ├── BukuFiksi.java
+│   └── BukuNonFiksi.java
+├── anggota/
+│   ├── Anggota.java
+│   └── PremiumAnggota.java
+├── transaksi/
+│   ├── Peminjaman.java
+│   └── Pengembalian.java
+└── util/
+    ├── DateUtil.java
+    └── FileUtil.java
