@@ -13,3 +13,4 @@ public class BukuFiksi extends Buku {
         return "Buku Fiksi - Genre: " + genre;
     }
 }
+#hihhihhi
