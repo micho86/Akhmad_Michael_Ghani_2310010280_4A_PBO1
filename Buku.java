@@ -21,3 +21,4 @@ public abstract class Buku {
     public boolean isDipinjam() { return dipinjam; }
     public void setDipinjam(boolean status) { this.dipinjam = status; }
 }
+#pembuatan saya terlambat mohon maaf :D
